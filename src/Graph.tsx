@@ -36,7 +36,7 @@ class Graph extends Component<IProps, {}> {
 
     const schema = {
       stock: 'string',
-      top_ask_price: 'float',
+      top_ask_price: 'float', 
       top_bid_price: 'float',
       timestamp: 'date',
     };
