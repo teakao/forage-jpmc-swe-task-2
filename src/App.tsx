@@ -5,7 +5,7 @@ import './App.css';
 
 /**
  * State declaration for <App />
- */
+ */ 
 interface IState {
   data: ServerRespond[],
   showGraph: boolean,

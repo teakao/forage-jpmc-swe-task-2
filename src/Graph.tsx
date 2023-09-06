@@ -23,7 +23,7 @@ interface PerspectiveViewerElement extends HTMLElement{
  * parsed from its parent through data property.
  */
 class Graph extends Component<IProps, {}> {
-  // Perspective table
+  // Perspective table 
   table: Table | undefined;
 
   render() {
